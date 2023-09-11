@@ -1,0 +1,24 @@
+H1{
+    text-align: center;
+}
+H2{
+    text-align: center;
+}
+.CODING{ width: 400;
+height: 300;
+}
+.cody{
+    width: 400;
+    height: 300;
+}
+p{
+    text-align: center;
+    white-space: nowrap;
+}
+a{
+    text-align: center;
+}
+body 
+ { backdrop-filter: blur(5px); color: whitesmoke;
+    background: url(IMAGES/CODING.jpg);
+  }
